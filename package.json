@@ -1,0 +1,10 @@
+{
+  "name": "modulo02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Renan Luz <ren4n@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
