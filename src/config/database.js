@@ -1,7 +1,8 @@
 module.exports = {
   dialect: 'postgres',
   host: 'localhost',
-  username: 'docker',
+  username: 'postgres',
+  password: 'docker',
   database: 'gobarber',
   define: {
     // armazena a data de criação e atualização de cada registro
